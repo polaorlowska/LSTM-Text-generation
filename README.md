@@ -9,6 +9,7 @@ During our project we have discovered how to create a generative model for text,
 Step by step:
 1. Choosing the text - https://www.gutenberg.org/files/2600/2600-0.txt
 2. Preparation of the text- modification of the txt in order the model could work
+![](https://user-images.githubusercontent.com/61584933/82455348-2479b180-9ab3-11ea-889a-7bcd223f9bff.png)
 3. Division of text into small batches (40 characters each)
 4. Vectorization of the batches
 5. LSTM Model creation
